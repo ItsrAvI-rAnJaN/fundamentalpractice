@@ -1,0 +1,15 @@
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\bin\Debug\net6.0\EmpWageComputation.exe
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\bin\Debug\net6.0\EmpWageComputation.deps.json
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\bin\Debug\net6.0\EmpWageComputation.runtimeconfig.json
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\bin\Debug\net6.0\EmpWageComputation.dll
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\bin\Debug\net6.0\EmpWageComputation.pdb
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\obj\Debug\net6.0\EmpWageComputation.csproj.AssemblyReference.cache
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\obj\Debug\net6.0\EmpWageComputation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\obj\Debug\net6.0\EmpWageComputation.AssemblyInfoInputs.cache
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\obj\Debug\net6.0\EmpWageComputation.AssemblyInfo.cs
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\obj\Debug\net6.0\EmpWageComputation.csproj.CoreCompileInputs.cache
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\obj\Debug\net6.0\EmpWageComputation.dll
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\obj\Debug\net6.0\refint\EmpWageComputation.dll
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\obj\Debug\net6.0\EmpWageComputation.pdb
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\obj\Debug\net6.0\EmpWageComputation.genruntimeconfig.cache
+C:\Users\ravir\source\repos\EmpWageComputation\EmpWageComputation\obj\Debug\net6.0\ref\EmpWageComputation.dll
