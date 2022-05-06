@@ -8,7 +8,8 @@ namespace LineCompComputation
 {
     public class LineCompComputation
     {
-        double Linelength;
+        double Linelength1;
+        double LineLength2;
         public void CalLineLength()
         {
             Console.Write(" Please Enter The Point 1 Coordinate X1:- ");
@@ -19,11 +20,33 @@ namespace LineCompComputation
             int Y1 = Convert.ToInt32(Console.ReadLine());
             Console.Write(" Please Enter The Point 2 Coordinate Y2:- ");
             int Y2 = Convert.ToInt32(Console.ReadLine());
+            Console.Write(" Please Enter The Point 1 Coordinate X3:- ");
+            int X3 = Convert.ToInt32(Console.ReadLine());
+            Console.Write(" Please Enter The Point 1 Coordinate X4:- ");
+            int X4 = Convert.ToInt32(Console.ReadLine());
+            Console.Write(" Please Enter The Point 2 Coordinate Y3:- ");
+            int Y3 = Convert.ToInt32(Console.ReadLine());
+            Console.Write(" Please Enter The Point 2 Coordinate Y4:- ");
+            int Y4 = Convert.ToInt32(Console.ReadLine());
 
-            double Length = Math.Pow(X2 - X1, 2) + Math.Pow(Y2 - Y1, 2);
-            Linelength = Math.Sqrt(Length);
-            Console.WriteLine(Linelength);
-            Console.ReadKey();
-         }
+            double LengthLine1 = Math.Pow(X2 - X1, 2) + Math.Pow(Y2 - Y1, 2);
+            Linelength1 = Math.Sqrt(LengthLine1);
+            double LengthLine2 = Math.Pow(X4 - X3, 2) + Math.Pow(Y4 - Y3, 2);
+            LineLength2= Math.Sqrt(LengthLine2);
+            Console.WriteLine("length of Line1 is {0} & Length of line is {1} ",Linelength1,LineLength2);
+        }
+        
+        public void ChkLIneLEnEqorNot()
+        {
+         if(Linelength1 == LineLength2)
+            {
+                Console.WriteLine("Length of Line1 & length of Line is Equal");
+            }
+            else
+            {
+                Console.WriteLine("LEngth of Line1 & Length Of Line is Not Equal");
+            }
+        }
+
     }
 }

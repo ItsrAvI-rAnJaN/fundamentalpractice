@@ -9,6 +9,7 @@ namespace LineCompComputation
            Console.WriteLine("Welcome to Line Comparision Computation");
            LineCompComputation objLine = new LineCompComputation();
            objLine.CalLineLength();
+            objLine.ChkLIneLEnEqorNot();
            Console.ReadKey();
         }
     }
