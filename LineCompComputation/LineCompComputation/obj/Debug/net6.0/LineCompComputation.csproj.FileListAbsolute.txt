@@ -1,0 +1,15 @@
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\bin\Debug\net6.0\LineCompComputation.exe
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\bin\Debug\net6.0\LineCompComputation.deps.json
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\bin\Debug\net6.0\LineCompComputation.runtimeconfig.json
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\bin\Debug\net6.0\LineCompComputation.dll
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\bin\Debug\net6.0\LineCompComputation.pdb
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\obj\Debug\net6.0\LineCompComputation.csproj.AssemblyReference.cache
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\obj\Debug\net6.0\LineCompComputation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\obj\Debug\net6.0\LineCompComputation.AssemblyInfoInputs.cache
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\obj\Debug\net6.0\LineCompComputation.AssemblyInfo.cs
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\obj\Debug\net6.0\LineCompComputation.csproj.CoreCompileInputs.cache
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\obj\Debug\net6.0\LineCompComputation.dll
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\obj\Debug\net6.0\refint\LineCompComputation.dll
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\obj\Debug\net6.0\LineCompComputation.pdb
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\obj\Debug\net6.0\LineCompComputation.genruntimeconfig.cache
+C:\Users\ravir\source\repos\LineCompComputation\LineCompComputation\obj\Debug\net6.0\ref\LineCompComputation.dll
