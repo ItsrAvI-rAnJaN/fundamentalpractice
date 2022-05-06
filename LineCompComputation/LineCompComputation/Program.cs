@@ -2,12 +2,14 @@
 
 namespace LineCompComputation
 {
-    public class Program
+     public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Line Comparision Computation");
-            Console.ReadKey();
+           Console.WriteLine("Welcome to Line Comparision Computation");
+           LineCompComputation objLine = new LineCompComputation();
+           objLine.CalLineLength();
+           Console.ReadKey();
         }
     }
 }
