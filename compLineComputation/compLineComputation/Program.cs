@@ -2,16 +2,15 @@
 
 namespace compLineComputation
 {
-
-    public class Program
-    {
-        static void Main(string[] args)
+     public class Program
         {
-            Console.WriteLine("Welcome to Cartesian Coordinate  Line Comparision Computation");
-            LineCompComputation objLine = new LineCompComputation();
-            objLine.CalLineLength();
-
-            Console.ReadKey();
-        }
-    }
+            static void Main(string[] args)
+            {
+                Console.WriteLine("Welcome to Line Comparision Computation");
+                LineCompComputation objLine = new LineCompComputation();
+                objLine.CalLineLength();
+                objLine.ChkLIneLEnEqorNot();
+                Console.ReadKey();
+            }
+     }
 }
