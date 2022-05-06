@@ -40,6 +40,7 @@ namespace compLineComputation
             Console.WriteLine("length of Line1 is {0} & Length of line is {1} ", Linelength1, LineLength2);
         }
 
+        // Method to Check Length of Line is Equal or Not
         public void ChkLIneLEnEqorNot()
         {
             if (Linelength1 == LineLength2)
@@ -49,6 +50,19 @@ namespace compLineComputation
             else
             {
                 Console.WriteLine("Length of Line1 & Length Of Line is Not Equal");
+            }
+        }
+        // Method to check which Length of Line is Greater
+        public void ChkLineLenGtorLt()
+        {
+            if(Linelength1 > LineLength2)
+            {
+                Console.Write("Length of Line1 is Greater than Length of Line2");
+
+            }
+            else
+            {
+                Console.WriteLine("Length of Line2 is Greater than Length of Line1");
             }
         }
 

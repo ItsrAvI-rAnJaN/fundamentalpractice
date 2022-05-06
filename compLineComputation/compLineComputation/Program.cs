@@ -10,6 +10,7 @@ namespace compLineComputation
                 LineCompComputation objLine = new LineCompComputation();
                 objLine.CalLineLength();
                 objLine.ChkLIneLEnEqorNot();
+                objLine.ChkLineLenGtorLt();
                 Console.ReadKey();
             }
      }
