@@ -8,7 +8,7 @@ namespace EmpWageComputation
         {
             Console.WriteLine("Welcome to Employee Wage Computation");
             EmpWageComputation objEmp = new EmpWageComputation();
-            objEmp.EmpMonthWage();
+            objEmp.EmpWageTillCond();
 
 
             Console.ReadKey();
