@@ -9,6 +9,7 @@ namespace SnakeLadderGame
             Console.WriteLine("Welcome to Snake Ladder Game");
             SnakeLadder ObjGame= new SnakeLadder();
             ObjGame.StartGame();
+            ObjGame.DiceRoll();
             Console.ReadKey();
         }
     }
