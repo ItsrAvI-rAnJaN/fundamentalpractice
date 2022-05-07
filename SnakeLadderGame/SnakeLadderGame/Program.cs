@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace SnakeAndLadderProblem
+namespace SnakeLadderGame
 {
     class Program
     {
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Snake Ladder Game");
+            SnakeLadder ObjGame= new SnakeLadder();
+            ObjGame.StartGame();
             Console.ReadKey();
         }
     }
