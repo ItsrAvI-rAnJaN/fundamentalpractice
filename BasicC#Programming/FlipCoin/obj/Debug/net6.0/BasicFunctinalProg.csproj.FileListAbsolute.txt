@@ -1,0 +1,15 @@
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\BasicFunctinalProg.csproj.AssemblyReference.cache
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\BasicFunctinalProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\BasicFunctinalProg.AssemblyInfoInputs.cache
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\BasicFunctinalProg.AssemblyInfo.cs
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\BasicFunctinalProg.csproj.CoreCompileInputs.cache
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\bin\Debug\net6.0\BasicFunctinalProg.exe
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\bin\Debug\net6.0\BasicFunctinalProg.deps.json
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\bin\Debug\net6.0\BasicFunctinalProg.runtimeconfig.json
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\bin\Debug\net6.0\BasicFunctinalProg.dll
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\bin\Debug\net6.0\BasicFunctinalProg.pdb
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\BasicFunctinalProg.dll
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\refint\BasicFunctinalProg.dll
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\BasicFunctinalProg.pdb
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\BasicFunctinalProg.genruntimeconfig.cache
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\ref\BasicFunctinalProg.dll

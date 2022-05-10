@@ -1,0 +1,5 @@
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.csproj.AssemblyReference.cache
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.AssemblyInfoInputs.cache
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.AssemblyInfo.cs
+C:\Users\ravir\source\repos\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.csproj.CoreCompileInputs.cache
