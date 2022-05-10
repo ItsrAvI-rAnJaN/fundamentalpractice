@@ -1,0 +1,15 @@
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\obj\Debug\net6.0\Basic_Core_Programing.csproj.AssemblyReference.cache
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\obj\Debug\net6.0\Basic_Core_Programing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\obj\Debug\net6.0\Basic_Core_Programing.AssemblyInfoInputs.cache
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\obj\Debug\net6.0\Basic_Core_Programing.AssemblyInfo.cs
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\obj\Debug\net6.0\Basic_Core_Programing.csproj.CoreCompileInputs.cache
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\bin\Debug\net6.0\Basic_Core_Programing.exe
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\bin\Debug\net6.0\Basic_Core_Programing.deps.json
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\bin\Debug\net6.0\Basic_Core_Programing.runtimeconfig.json
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\bin\Debug\net6.0\Basic_Core_Programing.dll
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\bin\Debug\net6.0\Basic_Core_Programing.pdb
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\obj\Debug\net6.0\Basic_Core_Programing.dll
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\obj\Debug\net6.0\refint\Basic_Core_Programing.dll
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\obj\Debug\net6.0\Basic_Core_Programing.pdb
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\obj\Debug\net6.0\Basic_Core_Programing.genruntimeconfig.cache
+C:\Users\ravir\source\repos\Basic_Core_Programing\Basic_Core_Programing\obj\Debug\net6.0\ref\Basic_Core_Programing.dll
