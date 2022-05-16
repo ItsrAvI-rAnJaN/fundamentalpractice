@@ -1,0 +1,15 @@
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\obj\Debug\net6.0\LogiCSharpProg.csproj.AssemblyReference.cache
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\obj\Debug\net6.0\LogiCSharpProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\obj\Debug\net6.0\LogiCSharpProg.AssemblyInfoInputs.cache
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\obj\Debug\net6.0\LogiCSharpProg.AssemblyInfo.cs
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\obj\Debug\net6.0\LogiCSharpProg.csproj.CoreCompileInputs.cache
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\bin\Debug\net6.0\LogiCSharpProg.exe
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\bin\Debug\net6.0\LogiCSharpProg.deps.json
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\bin\Debug\net6.0\LogiCSharpProg.runtimeconfig.json
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\bin\Debug\net6.0\LogiCSharpProg.dll
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\bin\Debug\net6.0\LogiCSharpProg.pdb
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\obj\Debug\net6.0\LogiCSharpProg.dll
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\obj\Debug\net6.0\refint\LogiCSharpProg.dll
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\obj\Debug\net6.0\LogiCSharpProg.pdb
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\obj\Debug\net6.0\LogiCSharpProg.genruntimeconfig.cache
+C:\Users\ravir\source\repos\LogiCSharpProg\LogiCSharpProg\obj\Debug\net6.0\ref\LogiCSharpProg.dll
