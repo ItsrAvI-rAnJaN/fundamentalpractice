@@ -8,43 +8,55 @@ namespace EmpWageComputation
 {
     public class EmpWageComputation
     {
-        public const int Is_Part_Time =1;
-        public const int Is_Full_Time = 2;
-        public const int Emp_Rate_Per_Hrs = 20;
-        public const int Num_of_Working_Days = 20;
-        public const int Max_Hrs_In_Mnth = 100;
+         const int Is_Part_Time =1;
+         const int Is_Full_Time = 2;        // taking constant Variable 
+         const int Emp_Rate_Per_Hrs = 20;     
+         const int Num_of_Working_Days = 20;
+         const int Max_Hrs_In_Mnth = 100;
 
 
         int EmpHrs;
-        int TotalHrs = 0;
-        int TotalWrkngDays = 0;
+        int TotalHrs = 0;                    // Taking instance Variable to store  hrs & working days
+        int TotalWrkngDays = 0;   
         
+        // creaating instnce/object of Random Class
         Random random = new Random();
-        public void EmpWageTillCond()
+        public void CalcEmpWage()
         {
             while (TotalHrs <= Max_Hrs_In_Mnth && TotalWrkngDays < Num_of_Working_Days)
             {
                 TotalWrkngDays++;
-                Random random = new Random();
+                // using random to genrate 0,1,2 & storing in variable EmpCheck
                 int empCheck = random.Next(0, 3);
+
+                // using Switch to Check Empcheck & get workin Hrs..
                 switch (empCheck)
                 {
                     case Is_Full_Time:
-                        Console.WriteLine("Day {0} Employee Works Full Time", TotalWrkngDays);
+                        
                         EmpHrs = 8;
                         break;
                     case Is_Part_Time:
-                        Console.WriteLine("Day {0} Employee Works Full Time", TotalWrkngDays);
                         EmpHrs = 4;
                         break;
                     default:
-                        Console.WriteLine("Day {0} Employee is Absent ", TotalWrkngDays);
                         EmpHrs = 0;
                         break;
                 }
                 TotalHrs += EmpHrs;
-                Console.WriteLine("Day {1} Employee Work Done {0} Hrs", EmpHrs, TotalWrkngDays);
+                Console.WriteLine(" In Day {1} Employee Work Done is {0} Hrs", EmpHrs, TotalWrkngDays);
+
+                // using if Block to Print if reached Condition Working hrs & Working Days in a Month
+                if (TotalHrs == Max_Hrs_In_Mnth)
+                {
+                    Console.WriteLine("Total Working Hours in a Month has reached = " + Max_Hrs_In_Mnth + " hrs");
+                }
+                if (TotalWrkngDays == Num_of_Working_Days)
+                {
+                    Console.WriteLine("Total Working Days in a Month  has reached = " + Num_of_Working_Days + " days");
+                }
             }
+            // printing Total Wages Of Employee
             int totalEmpWage = TotalHrs * Emp_Rate_Per_Hrs;
             Console.WriteLine("Total Employee Wage : " + totalEmpWage);
         }
